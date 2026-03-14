@@ -1,7 +1,8 @@
 #include &lt;stdio.h&gt;
 
 int main() {
-    int poly1[20][2], poly2[20][2], result[40][2];
+  
+  int poly1[20][2], poly2[20][2], result[40][2];
     int n1, n2;
     int i = 0, j = 0, k = 0;
 
