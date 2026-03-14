@@ -5,7 +5,6 @@ void convertToSparse(int m, int n, int mat[10][10], int sparse[100][3]) {
 
     sparse[0][0] = m;
     sparse[0][1] = n;
-
     for (i = 0; i &lt; m; i++) {
 
         for (j = 0; j &lt; n; j++) {
