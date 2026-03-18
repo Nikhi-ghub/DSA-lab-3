@@ -1,4 +1,4 @@
-#include &lt;stdio.h&gt;
+#include<stdio.h>
 
 #define MAX 100
 
